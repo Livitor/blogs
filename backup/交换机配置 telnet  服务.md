@@ -21,7 +21,7 @@ ip a 192.168.1.254 24
 
 # 三种不同密码类型登录
 拓扑图
-![[HOME/Network/网络设备/交换机配置 telnet  服务/files/d7f710c928cdb4fb6900cb2bf834cc6e_MD5.png]]
+![image](https://github.com/user-attachments/assets/46e75716-98f2-47fc-8924-1b3d28ff20bf)
 
 ## none 登录
 顾名思义, 就是不需要密码就可以登录
@@ -108,7 +108,7 @@ telnet 192.168.1.254
 
 ## password登录
 拓扑图:
-![[HOME/Network/网络设备/交换机配置 telnet  服务/files/6265aa9f9e3838f34069a7fbe202bc13_MD5.png]]
+![image](https://github.com/user-attachments/assets/0e0ef1f4-8cd5-4990-9dd9-12647466b16c)
 
 ### 设置端口:
 ```bash
@@ -202,7 +202,7 @@ telnet 192.168.1.254
 
 ## scheme登录
 拓扑图:
-![[HOME/Network/网络设备/交换机配置 telnet  服务/files/67b0ecf4b04b7381565c481b9c0acb5e_MD5.png]]
+![image](https://github.com/user-attachments/assets/ca0f3b8b-21c2-49dd-a38f-ad51f56b3949)
 
 ### 设置端口:
 ```bash
