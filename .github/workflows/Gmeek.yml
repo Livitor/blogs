@@ -68,10 +68,6 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: 'docs/.'
-
-      - name: Remove 'Powered by' statement
-        run: |
-          sed -i 's/Powered by Gmeek//g' /opt/Gmeek/docs/*.html
           
   deploy:
     name: Deploy blog
