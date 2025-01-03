@@ -2,6 +2,6 @@
     "title":"+_=",
     "subTitle":"Blog description",
     "avatarUrl":"https://avatars.githubusercontent.com/u/101435997?s=48&v=4",
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>",
     "GMEEK_VERSION":"last"
 }
